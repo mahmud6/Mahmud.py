@@ -49,14 +49,18 @@ def jalan(z):
 ##### LOGO #####
 logo = """
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
-\033[1;96m          _____                     _ _ 
-\033[1;96m         / ____|                   | (_) ⚡
-\033[1;96m        | (___  _ __   ___  ___  __| |_  
-\033[1;96m         \___ \| '_ \ / _ \/ _ \/ _` | | 
-\033[1;96m         ____) | |_) |  __/  __/ (_| | |
-\033[1;96m        |_____/| .__/ \___|\___|\__,_|_|
-\033[1;96m               | |                      
-\033[1;96m               |_|   Khan Updated 0.3                   
+\033[1;96m           Disclaimer Any actions and or activities
+related to the material contained within this Website is solely 
+your responsibility.The misuse of the information in this website can result in criminal charges 
+brought against the persons in question. The authors and Kali Tutorials will not be held responsible in 
+the event any criminal charges be brought against any individuals misusing the information
+\033[1;96m       
+\033[1;96m      
+\033[1;96m         
+\033[1;96m      
+\033[1;96m        
+\033[1;96m               
+\033[1;96m                  MAHMUD Updated 0.3                   
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
 """
 def tik():
@@ -87,7 +91,7 @@ print  """
 
 """
 
-jalan("\033[1;97m•◈•••••◈•KhanMahmud|ItZ Not A Name|ItZ A Brand•◈•••••◈•")  
+jalan("\033[1;97m•◈•••••◈•Mahmud|ItZ Not A Name|ItZ A Brand•◈•••••◈•")  
 
 
 jalan("\033[1;96m•◈•   _____ _____  ______ ______ _____ _____ ")
@@ -100,12 +104,12 @@ jalan("\033[1;96m•◈• |_____/|_|    |______|______|_____/_____|")
 jalan("   \033[1;91m INDIAN USERS USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
 
-jalan("   \033[1;93m Welcome to Khan Mahmud Creations ")
+jalan("   \033[1;93m Welcome to Mahmud Creations ")
 
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mKhan Mahmud\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "khan"
-CorrectPassword = "khan"
+CorrectUsername = "Mahmud"
+CorrectPassword = "milon"
 
 
 loop = 'true'
